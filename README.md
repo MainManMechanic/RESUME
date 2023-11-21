@@ -9,6 +9,6 @@ A small exploratory data analysis for a dataet with a practice HR dataset.
 
 -Involves report and education of many statistical concepts and reasoning
 
-__Webscraper and SQL__
+__Webscraper and SQL for Internet Gaming Disorder__
 
 TBA# RESUME
