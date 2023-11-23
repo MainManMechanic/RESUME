@@ -3,7 +3,7 @@
 This is my resume repository, in which contains a few projects I am comfortable with sharing to showcase my knowledge and skills around data analysis
 
 __EDA for HR dataset__
-A small exploratory data analysis for a dataet with a practice HR dataset.
+A small exploratory data analysis for a dataset with a practice HR dataset.
 
 -Involves statistical programming
 
