@@ -15,8 +15,13 @@ A small exploratory data analysis for a dataet with a practice HR dataset.
 
 __Data Cleaning GooglePlay database__
 A data cleaning exercise to showcase use of pandas scrubbing abilities and some discussion (TBF)
+
 -Involves use of pandas
 
 -Involves traditional cleaning practices (duplicates and nulls)
+
+-Discussion on whether or not to delete or keep data
+
+-Investigation into ideal methods of cleaning
 
 
