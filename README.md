@@ -1,6 +1,6 @@
 # Callan's RESUME
-# Hi future employer :)
-Thanks for clicking :) This is my resume repository, in which contains a few projects I am comfortable with sharing to showcase my knowledge and skills around data analysis
+# Hi future employer thanks for clicking :)
+This is my resume repository, in which contains a few projects I am comfortable with sharing to showcase my knowledge and skills around data analysis
 
 __EDA for HR dataset__
 A small exploratory data analysis for a dataet with a practice HR dataset.
