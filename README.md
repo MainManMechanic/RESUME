@@ -9,6 +9,11 @@ A small exploratory data analysis for a dataet with a practice HR dataset.
 
 -Involves report and education of many statistical concepts and reasoning
 
-__Webscraper and SQL for Internet Gaming Disorder__
+-Involves basic visualisation
 
-TBA# RESUME
+__Data Cleaning GooglePlay database__
+A data cleaning exercise to showcase use of pandas scrubbing abilities and some discussion
+-Involves use of pandas
+
+-Involves traditional cleaning practices (duplicates and nulls)
+# RESUME
