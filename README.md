@@ -1,3 +1,5 @@
+# Callan's RESUME
+# Hi future employer :)
 Thanks for clicking :) This is my resume repository, in which contains a few projects I am comfortable with sharing to showcase my knowledge and skills around data analysis
 
 __EDA for HR dataset__
@@ -17,4 +19,4 @@ A data cleaning exercise to showcase use of pandas scrubbing abilities and some 
 
 -Involves traditional cleaning practices (duplicates and nulls)
 
-# RESUME
+
