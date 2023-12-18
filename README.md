@@ -1,5 +1,5 @@
 # Callan's RESUME
-# Hi future employer thanks for clicking :)
+# Hello, future employer, thank you for clicking :)
 This is my resume repository, in which contains a few projects I am comfortable with sharing to showcase my knowledge and skills around data analysis
 
 __EDA for HR dataset__
