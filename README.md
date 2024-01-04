@@ -14,10 +14,10 @@ A small exploratory data analysis for a dataset with a practice HR dataset.
 -Involves basic visualisation
 
 __SQL 8 Week Challenge__
-An 8 Week SQL challenge I completed to showcase my SQL skills
+An 8 Week SQL challenge to showcase my SQL skills
 
--Involves a wide range of SQL functions 
+-Involves a wide range of SQL functions, utilize PostgreSQL functions and clauses such as UPDATE, SET, NULLIF, regexp_replace, type conversion (::NUMERIC, ::INTEGER, ::VARCHAR), to_timestamp, ALTER TABLE RENAME COLUMN, COALESCE, basic arithmetic operations (+, -, *, /), aggregation functions (COUNT, AVG, SUM), date and time functions (EXTRACT, date_trunc), and regular expressions ('^[0-9.]', '^[0-9]') for data modification, cleaning, and analysis purposes. 
 
--PDF format for ease of reading, instead of just code without context I used markdown to create presentable findings and the process behind for your reading pleasure!
+-PDF format for ease of reading, instead of just code without context I used markdown to create presentable answers and the process behind them for improved clarity!
 
 __More To Be Added__
