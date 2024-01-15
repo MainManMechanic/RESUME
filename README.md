@@ -9,9 +9,9 @@ A small exploratory data analysis for a dataset with a practice HR dataset.
 
 -Showcase of Python libraries such as matplotlib, numpy, seaborn.
 
--Involves report and education of many statistical concepts and reasoning
+-Involves report and education of many statistical concepts and reasoning.
 
--Involves basic visualisation
+-Involves basic visualisation.
 
 __SQL 8 Week Challenge__
 An 8 Week SQL challenge to showcase my SQL skills
@@ -20,4 +20,14 @@ An 8 Week SQL challenge to showcase my SQL skills
 
 -PDF format for ease of reading, instead of just code without context I used markdown to create presentable answers and the process behind them for improved clarity!
 
+
+__Quantium Data Analysis__
+Quantium is a data and technology company that have small, open-ended task-related projects around data analysis that anyone can try. It involves real world-based datasets with real products and is a perfect website to showcase some more Python skills while also sharing my results with the company itself.
+
+- Involves large datasets manipulated using Python in a Jupyter notebook (in pdf format), answering open-ended questions concerning a theoretical stakeholder asking for information concerning a specific segmentation of customers.
+
+- Use of wide variety of analysis function and statistical analysis libraries. 
+
+- Tasks were divided into numbered points.
+-  
 __More To Be Added__
